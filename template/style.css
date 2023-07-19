@@ -1,0 +1,25 @@
+body {
+    background-color: #D5E1EF;
+}
+.container{
+    background-color: white;
+    border-radius: 1.5rem;
+    margin: auto;
+    width: 28.5rem;
+    height: 45rem;
+    text-align: center;
+    margin-top: 10rem;
+}
+img {
+    border-radius: 1rem;
+    width: 400px;
+    margin:1.5rem;
+}
+.text{
+    margin: 1rem 2rem 2rem 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-size: 1.5rem;
+    color: #A3A6AD;
+}
